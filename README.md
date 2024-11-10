@@ -1,2 +1,2 @@
 # Sql projects
- This repository contains projects based on sql
+ This repository contains projects using PostgreSQL
