@@ -67,7 +67,78 @@ This project includes a variety of **SQL operations** and queries to answer busi
 
 This project highlights the practical use of **SQL** in managing relational data and performing complex queries. It demonstrates:  
 
-- **Mastery of SQL queries** for real-world data analysis.  
+- **Mastery of SQL queries** for real-world data analysis.
+
+---
+---
+
+# **Pizza Sales Analysis Using SQL**
+
+## **Project Overview**
+
+This project involves analyzing **Pizza Sales Data** using SQL to extract meaningful insights and answer key business questions. A set of structured queries was applied to uncover patterns, trends, and actionable intelligence from the dataset.
+
+---
+
+## **Dataset**
+
+The dataset consists of detailed information related to pizza sales. This includes:
+- **Order Details**: Information about pizza orders, including quantities and order IDs.
+- **Sales Metrics**: Data on sales performance and revenue generation.
+- **Pizza Types**: Specifications of different pizzas sold, including their ingredients and sizes.
+
+---
+
+## **Key Objectives**
+
+The project focuses on answering various business questions through SQL queries, such as:
+1. Identifying top-selling pizza types.
+2. Analyzing sales performance by size and type.
+3. Determining peak order times.
+4. Evaluating revenue contributions from different pizza categories.
+5. Exploring customer ordering patterns.
+
+---
+
+## **Queries**
+
+This analysis utilizes a series of structured queries to achieve the objectives:
+- **Query 1**: Extract key sales metrics for each pizza type.
+- **Query 2**: Identify the most popular pizza sizes by quantity sold.
+- **Query 3**: Analyze sales trends across different time periods.
+- **Query 4**: Calculate revenue by pizza category.
+- **Query 5**: Evaluate order frequency and customer trends.
+- **Query 6-10**: Additional insights including inventory requirements and profit analysis.
+
+---
+
+## **Technologies Used**
+
+- **Database Management**: PostgreSQL
+- **Query Language**: SQL
+- **Data Exploration Tools**: Advanced SQL features, including:
+  - Joins
+  - Aggregations
+  - Subqueries
+  - Window functions
+
+---
+
+## **Learning Outcomes**
+
+Through this project, the following skills were enhanced:
+- Designing and optimizing SQL queries for real-world datasets.
+- Using advanced SQL techniques to extract actionable insights.
+- Structuring and interpreting large datasets for sales analysis.
+
+---
+
+## **How to Use**
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone <repository_url>
+
 - Use of **advanced SQL techniques** like **window functions** and **ranking**.  
 - **Integration of multiple datasets** to extract actionable insights.  
 
