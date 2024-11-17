@@ -1,3 +1,6 @@
+# 🗂️ **SQL Projects: Comprehensive Analysis and Insights**
+---
+
 # **SQL Project: Hospital Management System**
 
 ## **Project Overview**
